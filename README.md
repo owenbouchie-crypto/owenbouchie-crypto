@@ -23,3 +23,4 @@ I build automation systems, AI agents, and e-commerce tooling — mostly things 
 
 ---
 *Most of my work lives in private repos — happy to talk about any of it.*
+
