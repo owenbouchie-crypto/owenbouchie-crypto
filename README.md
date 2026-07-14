@@ -75,16 +75,6 @@ Client sites and infrastructure through **[Perpetual Technologies](https://perpe
 
 <br>
 
-## GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=owenbouchie-crypto&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
-<br>
-
 <div align="center">
 
 *Most of my work lives in private repos — happy to talk through any of it.*
