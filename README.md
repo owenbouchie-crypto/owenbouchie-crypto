@@ -40,6 +40,18 @@ Client sites and infrastructure through **[Perpetual Technologies](https://perpe
 
 <br>
 
+## Selected Work
+
+| | |
+|---|---|
+| 🧠 **Autonomous Ops Suite** | A fleet of scheduled agents that keep every active project — code, docs, and a personal knowledge base — version-controlled and self-syncing with zero manual intervention. |
+| 🛍️ **E-Commerce Storefront & Launch Ops** | Shopify theme development, catalog and content pipelines, and multi-channel launch assets for a direct-to-consumer apparel brand. |
+| 🎬 **Short-Form Content Pipeline** | Automated video generation end-to-end — scripting, text-to-speech narration, captioning, and rendering — for vertical social platforms. |
+| 📈 **Product Trend Intelligence** | An automated scanning and evaluation pipeline for sourcing and vetting viable e-commerce products. |
+| 🌐 **Client Web Development** | Sites and infrastructure delivered through **[Perpetual Technologies](https://perpetualtechnologies.co.uk)**. |
+
+<br>
+
 ## Tech Stack
 
 <div align="center">
@@ -66,9 +78,6 @@ Client sites and infrastructure through **[Perpetual Technologies](https://perpe
 ## GitHub Activity
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=owenbouchie-crypto&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=owenbouchie-crypto&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=owenbouchie-crypto&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
